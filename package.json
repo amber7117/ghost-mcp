@@ -15,10 +15,9 @@
         "prepare": "npm run build",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/amber7117/ghost-mcp.git"
-  },
+    "publishConfig": {
+        "access": "public"
+    },
   "author": "amber",
   "license": "ISC",
   "bugs": {
