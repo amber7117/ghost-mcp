@@ -1,0 +1,10 @@
+
+# Virtual environments
+.venv
+.vscode
+.qodo
+node_modules/
+build/
+knowledge/
+.env
+*.log
