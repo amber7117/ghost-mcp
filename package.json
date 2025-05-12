@@ -1,5 +1,5 @@
 {
-  "name": "ghost-mcp",
+  "name": "@amber7117/ghost-mcp",
   "version": "1.0.0",
   "description": "MCP server for using the Ghost API",
   "main": "build/server.js",
